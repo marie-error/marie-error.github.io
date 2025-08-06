@@ -1,0 +1,10 @@
+#get_initial_board(rows: int, columns: int) -> list[list[str]]
+
+#print_board(board: list[list[str]])
+
+#insert_chip(board: list[list[str]], column: int, chip: str) -> int
+
+#is_win_state(chip: str, board: list[list[str]], row: int, column: int) -> bool
+
+#is_board_full(board: list[list[str]]) -> bool
+

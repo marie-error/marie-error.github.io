@@ -1,0 +1,24 @@
+body {
+    background-color: #fad8e8;
+    padding: 1em;
+}
+
+img {
+    display: block;
+    margin:auto;
+}
+
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
+
+p {
+    font-family:'Courier New', Courier, monospace;
+    font-size: medium;
+}
